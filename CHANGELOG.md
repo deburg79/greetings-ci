@@ -1,3 +1,12 @@
+# [0.3.0](https://github.com/deburg79/greetings-ci/compare/v0.2.0...v0.3.0) (2024-02-16)
+
+
+### Features
+
+* version artifact v2 ([fc54375](https://github.com/deburg79/greetings-ci/commit/fc543750784965dd1d279c32047ddfca07ea7c13))
+
+
+
 # [0.2.0](https://github.com/deburg79/greetings-ci/compare/v0.1.0...v0.2.0) (2024-02-16)
 
 
