@@ -1,3 +1,12 @@
+## [0.4.1](https://github.com/deburg79/greetings-ci/compare/v0.4.0...v0.4.1) (2024-02-16)
+
+
+### Bug Fixes
+
+* add testing to pipeline v2 ([00eb94d](https://github.com/deburg79/greetings-ci/commit/00eb94deeadba5e4b23bd3373826076d6cb3975e))
+
+
+
 # [0.4.0](https://github.com/deburg79/greetings-ci/compare/v0.3.0...v0.4.0) (2024-02-16)
 
 
